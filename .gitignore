@@ -30,3 +30,4 @@ deps/lua/src/liblua.a
 build/
 cmake-build-debug/
 .idea/
+*.xml
